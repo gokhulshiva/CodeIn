@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "sp-online-file-upload",
+    "libraryId": "dd6fc629-9db5-4c48-a624-ccc0a44d6bcc",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "sp-online-file-upload",
+    "solutionShortDescription": "sp-online-file-upload description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

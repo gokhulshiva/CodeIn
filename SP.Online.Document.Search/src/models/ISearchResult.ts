@@ -1,0 +1,34 @@
+export interface ISearchResult {
+    Title: string;
+    Path: string;
+    DefaultEncodingURL: string;
+    FileType: string;
+    HitHighlightedSummary: string;
+    HitHighlightedProperties: string;
+    AuthorOWSUSER: string;
+    owstaxidmetadataalltagsinfo: string;
+    Created: string;
+    UniqueID: string;
+    NormSiteID: string;
+    NormWebID: string;
+    NormListID: string;
+    NormUniqueID: string;
+    ContentTypeId: string;
+    contentclass: string;
+    UserName: string;
+    JobTitle: string;
+    WorkPhone: string;
+    SPSiteURL: string;
+    SPWebUrl: string;
+    SiteTitle: string;
+    CreatedBy: string;
+    HtmlFileType: string;
+    SiteLogo: string;
+    PictureThumbnailURL: string;
+    ServerRedirectedURL: string;
+    ServerRedirectedEmbedURL: string;
+    ServerRedirectedPreviewURL: string;
+    LinkingUrl: string;
+    FileExtension: string;
+    IsDocument: boolean;
+}

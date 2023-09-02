@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sp-online-document-search-client-side-solution",
+    "id": "775e7a5b-f361-4b71-85f5-bf54298e3955",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "sp-online-document-search description"
+      },
+      "longDescription": {
+        "default": "sp-online-document-search description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "sp-online-document-search Feature",
+        "description": "The feature that activates elements of the sp-online-document-search solution.",
+        "id": "64223d7d-2886-4c3c-85ba-578c9c803664",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/sp-online-document-search.sppkg"
+  }
+}

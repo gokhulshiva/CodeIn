@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "sp-online-file-upload-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/spOnlineFileUpload/SpOnlineFileUploadWebPart.js",
+          "manifest": "./src/webparts/spOnlineFileUpload/SpOnlineFileUploadWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "SpOnlineFileUploadWebPartStrings": "lib/webparts/spOnlineFileUpload/loc/{locale}.js"
+  }
+}

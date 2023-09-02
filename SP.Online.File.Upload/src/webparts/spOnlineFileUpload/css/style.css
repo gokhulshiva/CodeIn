@@ -1,0 +1,59 @@
+#spCommandBar {
+    border: 0
+}
+
+#RecommendedItems {
+    display: none !important;
+}
+
+.fileUploadContainer {
+    width: 80%;
+    padding: 40px;
+    background: linear-gradient(#303f9f69, #7b1fa29c);
+    min-height: 450px;
+    border-radius: 10px;
+    margin-top: 40px;
+}
+
+.notificationContainer {
+    display: block;
+    position: absolute;
+    top: 0px;
+    right: -24px;
+    width: 40%;
+    transition: all 0.3s ease-in 0s;
+}
+
+.headerContainer {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;  
+}
+
+.formContainer input[type="file"] {
+    margin: 0;
+    border-radius: 20px;
+}
+
+
+/* dilaog */
+.ms-Dialog-main {
+    width: 550px;
+    /* height: 450px; */
+}
+
+.ms-Modal-scrollableContent > div {
+    border-top: 0 !important;
+}
+
+.width100 {
+    width: 100%
+}
+
+.stackCol50 {
+    width: 50%;
+}
+
+.ms-DatePicker {
+    max-width: 100% !important;
+}

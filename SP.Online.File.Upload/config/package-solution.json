@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sp-online-file-upload-client-side-solution",
+    "id": "dd6fc629-9db5-4c48-a624-ccc0a44d6bcc",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "sp-online-file-upload description"
+      },
+      "longDescription": {
+        "default": "sp-online-file-upload description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "sp-online-file-upload Feature",
+        "description": "The feature that activates elements of the sp-online-file-upload solution.",
+        "id": "3f37e4d9-994d-4dc2-ad87-f79d22310a4b",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/sp-online-file-upload.sppkg"
+  }
+}

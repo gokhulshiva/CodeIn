@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "sp-online-library-search",
+    "libraryId": "dac6d91e-2558-45ad-bf67-9e9f2179e138",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "sp-online-library-search",
+    "solutionShortDescription": "sp-online-library-search description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

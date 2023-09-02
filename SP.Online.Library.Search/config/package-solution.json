@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sp-online-library-search-client-side-solution",
+    "id": "dac6d91e-2558-45ad-bf67-9e9f2179e138",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "sp-online-library-search description"
+      },
+      "longDescription": {
+        "default": "sp-online-library-search description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "sp-online-library-search Feature",
+        "description": "The feature that activates elements of the sp-online-library-search solution.",
+        "id": "e27b10f4-0e11-430f-b913-158536f1bbfd",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/sp-online-library-search.sppkg"
+  }
+}
